@@ -1,1 +1,1 @@
-##Simple drag and drop project with Vanilla JS
+Simple drag and drop project with Vanilla JS
